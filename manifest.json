@@ -1,0 +1,17 @@
+
+{
+  "short_name": "VocalFuse",
+  "name": "VocalFuse Affiliate Studio",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/7133/7133312.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#09090b",
+  "background_color": "#09090b"
+}
